@@ -1,3 +1,6 @@
+/displays total number of plague cases from 2000 to 2017/
+/displays mean, standard deviation, minimum, and maximum of plague cases from 2000 to 2017/
+
 data USPlagueCases2000to2017;
 input Year Cases Deaths;
 cards;
