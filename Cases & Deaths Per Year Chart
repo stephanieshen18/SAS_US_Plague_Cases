@@ -1,4 +1,4 @@
-/chart that displays year and corresponding number of cases and deaths caused by plague/
+/*chart that displays year and corresponding number of cases and deaths caused by plague*/
 
 data USPlagueCases2000to2017;
 input Year Cases Deaths;
