@@ -1,5 +1,5 @@
 data USPlagueCases2000to2017;
-input Year$ Cases$ Deaths$;
+input Year Cases Deaths;
 cards;
 2000 6 0
 2001 2 0
