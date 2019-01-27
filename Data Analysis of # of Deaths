@@ -1,4 +1,5 @@
-/displays total number of deaths, and mean, standard deviation, minimum, and maximum of death rate/
+/displays total number of deaths from 2000 to 2017 caused by plague/
+/displays mean, standard deviation, minimum, and maximum of deaths from 2000 to 2017 caused by plague/
 
 data USPlagueCases2000to2017;
 input Year Cases Deaths;
