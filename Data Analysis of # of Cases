@@ -1,5 +1,5 @@
-/displays total number of plague cases from/
-/displays mean, standard deviation, minimum, and maximum of plague cases/
+/*displays total number of plague cases from*/
+/*displays mean, standard deviation, minimum, and maximum of plague cases*/
 
 data USPlagueCases2000to2017;
 input Year Cases Deaths;
