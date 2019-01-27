@@ -1,4 +1,4 @@
-/displays frequency of plague cases from 2000 to 2017/
+/displays frequency of plague cases/
 
 data USPlagueCases2000to2017;
 input Year Cases Deaths;
