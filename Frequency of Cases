@@ -1,4 +1,4 @@
-/displays frequency of plague cases/
+/*displays frequency of plague cases*/
 
 data USPlagueCases2000to2017;
 input Year Cases Deaths;
